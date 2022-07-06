@@ -3,6 +3,9 @@
 #+AUTHOR: Prashanth Kumar
 #+DATE: January 2, 2021
 
-These are my vanilla ~.emacs~ configuration files as of January 2, 2021.
+These are my vanilla ~.emacs~ configuration files as of January 2, 2021. 
+
++ [dot-emacs](dot-emacs): Initialization file
++ [settings.org](settings.org): Literate document with customizations
 
 The ~settings.org~ file contains all the custom configurations and tweaks for individual packages. This file is sourced in ~.emacs~.
