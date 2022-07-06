@@ -1,12 +1,8 @@
-#+TITLE: .emacs
-#+SUBTITLE: My .emacs configuration
+#+TITLE: Vanilla Emacs Config
+#+SUBTITLE: .emacs configuration
 #+AUTHOR: Prashanth Kumar
 #+DATE: January 2, 2021
 
-These are my ~.emacs~ configuration files as of January 2, 2021.
+These are my vanilla ~.emacs~ configuration files as of January 2, 2021.
 
 The ~settings.org~ file contains all the custom configurations and tweaks for individual packages. This file is sourced in ~.emacs~.
-
-These files are released under [[https://www.gnu.org/licenses/gpl-3.0.en.html][GPLv3]].
-
-If you find this useful, please drop me a note at prasxanth.kumar@gmail.com.
